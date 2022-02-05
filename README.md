@@ -1,5 +1,9 @@
 # https-onlinegdb.com-yu5wkcqjC
-'''calculadora 1.0'''
+'''calculadora 1.0. A calculadora basica versão 1.0 foi desenvolvida por filipe como 
+uma forma de exercitar programação python, aprendida no curso em video
+o código foi escrito usando como base a soma de doisi números e a partir daí foram adicionadas outras funcionalidade
+O método usado para adicionar funcionalidades foi a pesquisa na internet
+Aprendida nova função a mesma era adicionada ao código e testada logo em seguida para ver como e se funcionava'''
 c = 0
 i = 0
 while i == 0:
