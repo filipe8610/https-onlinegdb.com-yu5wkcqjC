@@ -1,12 +1,7 @@
 # https-onlinegdb.com-yu5wkcqjC
 '''calculadora 1.0'''
-
-
-
-
 c = 0
 i = 0
-
 while i == 0:
     print('')
     aritmetica = int(input('Escolha a operação aritmética: \n1) + \n2) - \n3) / \n4) * \n-> '))
