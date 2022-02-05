@@ -1,12 +1,5 @@
 # https-onlinegdb.com-yu5wkcqjC
-calculadora 1.0
-'''
-
-aula006B
-aperfeiçoando a calculadora
-
-
-'''
+'''calculadora 1.0'''
 c = 0
 i = 0
 
